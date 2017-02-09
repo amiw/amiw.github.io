@@ -320,9 +320,9 @@ footer .footer-above {
   color: #ECF0F1;
 }
 
-.img-circle {
-  shape-image-threshold: circle;
-  max-width: 400px;
+.img-square {
+  shape-image-threshold: square;
+  max-width: 300px;
 }
 
 h1,h2{
