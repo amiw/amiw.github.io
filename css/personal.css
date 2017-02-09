@@ -269,7 +269,7 @@ section.about {
 .hovereffect p {
   color: #ECF0F1;
   font-weight: 600;
-  padding: 1em 0;
+  padding: 0px;
   opacity: 0;
   filter: alpha(opacity=0);
   -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
@@ -323,4 +323,11 @@ footer .footer-above {
 .img-circle {
   shape-image-threshold: circle;
   max-width: 400px;
+}
+
+h1,h2{
+  color: white;
+}
+p{
+  padding: 0px;
 }
