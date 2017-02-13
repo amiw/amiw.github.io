@@ -334,5 +334,9 @@ p{
 }
 
 h3{
-  padding-bottom: 20px;
+  padding-bottom: 30px;
+}
+
+.img-margin{
+  margin:30px;
 }
