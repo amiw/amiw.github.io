@@ -179,6 +179,7 @@ section.about {
   }
   section.first {
     padding-top: 75px;
+    padding-bottom: 75px: 
   }
 }
 
@@ -246,7 +247,7 @@ section.about {
   font-size: 17px;
   background-color: transparent;
   color: #FFF;
-  padding: 1em 0;
+  padding: 10px;
   opacity: 0;
   filter: alpha(opacity=0);
   -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
@@ -330,4 +331,8 @@ h1,h2{
 }
 p{
   padding: 0px;
+}
+
+h3{
+  padding-bottom: 20px;
 }
