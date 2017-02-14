@@ -184,9 +184,9 @@ section.about {
 }
 
 .grid-item {
-	padding-right: 35px;
-	padding-left: 5px;
-	padding-bottom: 30px;
+  padding-right: 35px;
+  padding-left: 5px;
+  padding-bottom: 30px;
 }
 
 .hovereffect {
@@ -339,5 +339,4 @@ h3{
 
 .img-margin{
   padding-top: 15px;
-  float: left;
 }
